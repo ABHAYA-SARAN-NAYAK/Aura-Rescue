@@ -1,0 +1,6 @@
+{
+  "name": "AURA RESCUE — Tactical Disaster Command & Sensor Fusion",
+  "description": "Offline-first real-time 2D tactical life-detection, mmWave respiration DFT analyzer, Wi-Fi CSI mesh & live-wire EMF hazard command HUD by Team Compile error.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
